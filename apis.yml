@@ -11,9 +11,9 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/marine-mammal-commission/refs/heads/main/apis.yml
 tags:
+  - Conservation
   - Federal Government
   - Marine Mammals
-  - Conservation
   - Wildlife
 created: '2024-12-03'
 modified: '2026-03-16'
@@ -22,8 +22,8 @@ apis:
   - aid: marine-mammal-commission:marine-mammal-commission
     name: Marine Mammal Commission
     tags:
-      - Federal Government
       - Conservation
+      - Federal Government
     humanURL: https://www.mmc.gov
     properties:
       - url: https://www.mmc.gov
