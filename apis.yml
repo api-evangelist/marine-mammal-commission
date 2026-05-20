@@ -40,6 +40,8 @@ apis:
       letters, reports, grant data, and meeting recordings via their website
       but does not currently offer machine-readable APIs.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/marine-mammal-commission
   - type: Website
     url: https://www.mmc.gov
   - type: Documentation
