@@ -40,6 +40,10 @@ apis:
       letters, reports, grant data, and meeting recordings via their website
       but does not currently offer machine-readable APIs.
 common:
+  - type: VulnerabilityDisclosure
+    url: security/marine-mammal-commission-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/marine-mammal-commission-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/marine-mammal-commission
   - type: Website
