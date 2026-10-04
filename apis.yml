@@ -37,7 +37,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/marine-mammal-commission/refs/heads/main/apis.yml
 tags:
   - Conservation
-  - Federal-Government
+  - Federal Government
   - Marine Mammals
   - Wildlife
 tags_raw:
@@ -45,6 +45,7 @@ tags_raw:
   - Federal Government
   - Marine Mammals
   - Wildlife
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-04-28'
 specificationVersion: '0.23'
@@ -53,12 +54,13 @@ apis:
     name: Marine Mammal Commission
     tags:
       - Conservation
-      - Federal-Government
+      - Federal Government
       - Marine Mammals
     tags_raw:
       - Conservation
       - Federal Government
       - Marine Mammals
+      - Federal-Government
     humanURL: https://www.mmc.gov
     properties:
       - url: https://www.mmc.gov
