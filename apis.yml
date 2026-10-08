@@ -74,6 +74,12 @@ apis:
       letters, reports, grant data, and meeting recordings via their website
       but does not currently offer machine-readable APIs.
 common:
+  - type: Plans
+    url: plans/marine-mammal-commission-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/marine-mammal-commission-rate-limits.yml
+  - type: FinOps
+    url: finops/marine-mammal-commission-finops.yml
   - type: VulnerabilityDisclosure
     url: security/marine-mammal-commission-vulnerability-disclosure.yml
   - type: DomainSecurity
