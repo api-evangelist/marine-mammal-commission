@@ -1,4 +1,4 @@
-# Marine Mammal Commission (marine-mammal-commission)
+# Marine Mammal Commission
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,47 +66,101 @@
 
 The Marine Mammal Commission is an independent agency of the U.S. federal government established by the Marine Mammal Protection Act of 1972. The Commission provides science-based oversight of federal agency actions and domestic and international policies affecting the conservation of marine mammals and their ecosystems.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/marine-mammal-commission/refs/heads/main/apis.yml)
+**Areas:** Conservation · Federal Government · Marine Mammals · Wildlife
 
-## Scope
+## Marine Mammal Commission on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Marine Mammal Commission is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/marine-mammal-commission/](https://apis.io/providers/marine-mammal-commission/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Conservation, Federal Government, Marine Mammals, Wildlife
+- [Marine Mammal Commission](https://apis.io/apis/marine-mammal-commission/marine-mammal-commission/) — The Marine Mammal Commission provides science-based oversight of federal agency actions and domestic and international policies affecting the conservation…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-### Marine Mammal Commission
+Authentication, trust centre, and vulnerability disclosure.
 
-The Marine Mammal Commission provides science-based oversight of federal agency actions and domestic and international policies affecting the conservation of marine mammals and their ecosystems. The MMC publishes letters, reports, grant data, and meeting recordings via their website but does not currently offer machine-readable APIs.
+- [Marine Mammal Commission Domain Security](https://apis.io/security/marine-mammal-commission/marine-mammal-commission-domain-security/)
+- [Marine Mammal Commission Vulnerability Disclosure](https://apis.io/security/marine-mammal-commission/marine-mammal-commission-vulnerability-disclosure/)
 
-**Human URL:** [https://www.mmc.gov](https://www.mmc.gov)
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Conservation, Federal Government, Marine Mammals
+- [Marine Mammal Commission Plans Pricing](https://apis.io/plans/marine-mammal-commission/marine-mammal-commission-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
+
+Published request limits.
+
+- [Marine Mammal Commission Rate Limits](https://apis.io/rate-limits/marine-mammal-commission/marine-mammal-commission-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Marine Mammal Commission Finops](https://apis.io/finops/marine-mammal-commission/marine-mammal-commission-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.mmc.gov)
 - [Documentation](https://www.mmc.gov/about-the-commission/)
 
-## Common Properties
+## API Evangelist rating
 
-- [Website](https://www.mmc.gov)
-- [Documentation](https://www.mmc.gov/about-the-commission/)
+**Kin Score 9.1** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 7.9 |
 
-**FN:** Kin Lane
+**Agent readiness 0.6** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/marine-mammal-commission/](https://apis.io/providers/marine-mammal-commission/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Marine Mammal Commission: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/marine-mammal-commission/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
